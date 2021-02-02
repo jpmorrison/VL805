@@ -1,2 +1,4 @@
 # VL805
-Via Lab 805/806
+Via Labs 805/806
+
+Firmware, datasheets and utilities
